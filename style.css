@@ -1,0 +1,17 @@
+.registration{
+    width: 500px;
+    height: 400px;
+    background-color: seashell;
+    border: 5px solid purple;
+    margin: auto;
+    text-align: center;
+
+}
+.login{
+    width: 500px;
+    height: 400px;
+    background-color: seashell;
+    border:5px solid purple;
+    margin: auto;
+    text-align: center;}
+
